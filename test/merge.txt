@@ -9,6 +9,14 @@ develop
 ///
 ///
 ///
+function AAA()
+{
+AAA
+}
+
+///
+///
+///
 function develop(AAA, BBB)
 {
 develop
