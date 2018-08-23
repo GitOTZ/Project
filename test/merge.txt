@@ -3,21 +3,11 @@
 ///
 function develop()
 {
-develop
-}
-
-///
-///
-///
-<<<<<<< HEAD
-function AAA()
-{
-AAA
-=======
-function BBB()
-{
-BBB
->>>>>>> feature/BBB
+console.log('')
+console.log('develop')
+console.log('')
+console.log('develop')
+console.log('')
 }
 
 ///

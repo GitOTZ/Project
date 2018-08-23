@@ -3,23 +3,11 @@
 ///
 function develop()
 {
-develop
-}
-
-///
-///
-///
-function BBB()
-{
-BBB
-}
-
-///
-///
-///
-function AAA()
-{
-AAA
+console.log('')
+console.log('develop')
+console.log('')
+console.log('develop')
+console.log('')
 }
 
 ///
