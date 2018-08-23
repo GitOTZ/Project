@@ -3,11 +3,11 @@
 ///
 function develop()
 {
-console.log('')
+console.log('AAA')
 console.log('develop')
-console.log('')
+console.log('AAA')
 console.log('develop')
-console.log('')
+console.log('AAA')
 }
 
 ///
