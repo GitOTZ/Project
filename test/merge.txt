@@ -3,11 +3,19 @@
 ///
 function develop()
 {
+<<<<<<< HEAD
 console.log('AAA')
 console.log('develop')
 console.log('AAA')
 console.log('develop')
 console.log('AAA')
+=======
+console.log('BBB')
+console.log('develop')
+console.log('BBB')
+console.log('develop')
+console.log('BBB')
+>>>>>>> feature/BBB
 }
 
 ///
