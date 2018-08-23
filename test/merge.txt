@@ -9,9 +9,15 @@ develop
 ///
 ///
 ///
+<<<<<<< HEAD
 function AAA()
 {
 AAA
+=======
+function BBB()
+{
+BBB
+>>>>>>> feature/BBB
 }
 
 ///
